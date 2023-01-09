@@ -9,7 +9,7 @@ import time
 # PoC Code for CVE-2022-25765 command injection for pdfkit < v0.8.7
 
 # Usage:
-# python3 2022-2675.py <target url> <listener ip> <listener port> <http server port>
+# python3 2022-25765.py <target url> <listener ip> <listener port> <http server port>
 
 target_url = sys.argv[1]
 local_listener_ip = sys.argv[2]

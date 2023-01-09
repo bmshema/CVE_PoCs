@@ -6,7 +6,7 @@ import requests
 import sys
 import time
 
-# PoC Code for CVE-2022-25765 command injection for pdfkit < v0.8.7
+# PoC Code for reverse shell - CVE-2022-25765 command injection for pdfkit < v0.8.7
 
 # Usage:
 # python3 2022-25765.py <target url> <listener ip> <listener port> <http server port>

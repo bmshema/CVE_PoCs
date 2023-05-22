@@ -1,9 +1,9 @@
 #!/bin/bash
 #                                                                                                  
-# Name: regretfulRaven                                                                                
+# Name: mr1100_creds.sh                                                                                
 # Version: 0.1.0                                                                                      
 # Author: bmshema
-# Description: Executes a mask attack with Hashcat to exploit Netgear AT&T hotspot default credentials
+# Description: Executes a mask attack with Hashcat to exploit Netgear MR1100 AT&T hotspot default credentials
 
 # Input variables for SSID and hash file name
 echo 'SSID: '

@@ -6,4 +6,4 @@
 ## Non-CVE Cool Stuff
 
 ### mr1100_creds.sh
-- Takes input for network SSID and a Hashcat mode 22000 file and executes a mask attack with Hashcat to exploit Netgear AT&T hotspot default credentials.
+- Takes input for network SSID and a Hashcat mode 22000 file and executes a mask attack with Hashcat to exploit Netgear AT&T hotspot predictable default credentials.
